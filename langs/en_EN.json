@@ -1,5 +1,5 @@
 {
-    "language_version": "1.0.2",
+    "language_version": "1.0.3",
     "_______COMMENT": "GENERAL",
     "general_add": "ADD",
     "general_cancel": "Cancel",
@@ -53,11 +53,11 @@
 
     "page_settings_name_apperance": "Apperance",
 
-    "page_settings_apperance_theme": "Thème",
+    "page_settings_section_theme": "Thème",
     "page_settings_apperance_theme_dark": "Dark",
     "page_settings_apperance_theme_light": "Light",
     "page_settings_apperance_theme_sync": "Sync with system",
 
-    "page_settings_apperance_others": "Others",
+    "page_settings_section_others": "Others",
     "page_settings_apperance_others_windowtransparency": "Transparent"
 }
