@@ -1,7 +1,63 @@
 {
-    "language_version": "1.0.0",
-    "addons_installed": "Modules Installés",
-    "addons_enabled": "Modules Activés",
+    "language_version": "1.0.1",
+    "_______COMMENT": "GENERAL",
+    "general_add": "AJOUTER",
+    "general_cancel": "Annuler",
 
-    "keyboards": "Claviers"
+
+
+    
+    "_______COMMENT": "LOGS",
+    "logs_press_any_key": "Appuyez sur n'importe quelle touche pour exécuter vos macros.",
+    "logs_press_esc_exit": "Appuyez sur ESC pour quitter et rétablir le contrôle.",
+
+
+
+    "_______COMMENT": "SIDEBAR",
+    "sidebar_home": "Accueil",
+    "sidebar_keyboards": "Claviers",
+    "sidebar_voice": "Voix",
+    "sidebar_addons": "Modules",
+    "sidebar_help": "Aide",
+    "sidebar_settings": "Réglages",
+
+
+
+    "_______COMMENT": "NAVBAR",
+    "navbar_tap_to_search": "Appuyez pour rechercher",
+
+
+
+    "_______COMMENT": "PAGE HOME",
+    "page_home_addons_enabled": "Modules activés",
+    "page_home_addons_installed": "Modules installés",
+    "page_home_keyboard_ready": "Claviers prêts",
+    "page_home_macros": "Macro(s)",
+    "page_home_profils": "Profil(s)",
+
+    "page_home_log_event": "Journal d'événements",
+
+
+
+    "general_name": "Nom",
+
+
+
+    "_______COMMENT": "PAGE SETTINGS",
+    "page_settings_name_general": "Général",
+
+    "page_settings_general_windows": "Windows",
+    "page_settings_general_startwithwindows": "Commencer avec windows",
+    "page_settings_general_escforclose": "Appuyez sur ESC pour fermer",
+    "page_settings_general_notifications": "Afficher les notifications",
+
+    "page_settings_name_apperance": "Apparence",
+
+    "page_settings_apperance_theme": "Thème",
+    "page_settings_apperance_theme_dark": "Sombre",
+    "page_settings_apperance_theme_light": "Lumière",
+    "page_settings_apperance_theme_sync": "Synchroniser avec le système",
+
+    "page_settings_apperance_others": "Autres",
+    "page_settings_apperance_others_windowtransparency": "Transparent"
 }
