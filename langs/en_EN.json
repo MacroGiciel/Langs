@@ -1,7 +1,56 @@
 {
-    "home": "Home",
-    "addons_installed": "Installed Addons",
-    "addons_enabled": "Enabled Addons",
+    "language_version": "1.0.0",
+    "_______COMMENT": "GENERAL",
+    "general_add": "ADD",
+    "general_cancel": "Cancel",
 
-    "keyboards": "Keyboards"
+
+
+    "_______COMMENT": "SIDEBAR",
+    "sidebar_home": "Home",
+    "sidebar_keyboards": "Keyboards",
+    "sidebar_voice": "Voice",
+    "sidebar_addons": "Addons",
+    "sidebar_help": "Help",
+    "sidebar_settings": "Settings",
+
+
+
+    "_______COMMENT": "NAVBAR",
+    "navbar_tap_to_search": "Tap to search",
+
+
+
+    "_______COMMENT": "PAGE HOME",
+    "page_home_addons_enabled": "Enabled Addons",
+    "page_home_addons_installed": "Installed Addons",
+    "page_home_keyboard_ready": "Keyboards Ready",
+    "page_home_macros": "Macro(s)",
+    "page_home_profils": "Profil(s)",
+
+    "page_home_log_event": "Logs events",
+
+
+
+    "general_name": "Name",
+
+
+
+    "_______COMMENT": "PAGE SETTINGS",
+    "page_settings_name_general": "General",
+
+    "page_settings_general_windows": "Windows",
+    "page_settings_general_startwithwindows": "Start with windows",
+    "page_settings_general_escforclose": "Press ESC for close",
+    "page_settings_general_notifications": "Show notifications",
+
+    "page_settings_name_apperance": "Apperance",
+
+    "page_settings_apperance_theme": "Thème",
+    "page_settings_apperance_theme_dark": "Dark",
+    "page_settings_apperance_theme_light": "Light",
+    "page_settings_apperance_theme_sync": "Sync with system",
+
+    "page_settings_apperance_others": "Others",
+    "page_settings_apperance_others_windowtransparency": "Transparent"
 }
