@@ -1,8 +1,15 @@
 {
-    "language_version": "1.0.0",
+    "language_version": "1.0.1",
     "_______COMMENT": "GENERAL",
     "general_add": "ADD",
     "general_cancel": "Cancel",
+
+
+
+    
+    "_______COMMENT": "LOGS",
+    "logs_press_any_key": "Press any key to run your macros.",
+    "logs_press_esc_exit": "Press ESC to exit and restore back control.",
 
 
 
