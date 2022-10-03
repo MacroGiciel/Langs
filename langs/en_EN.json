@@ -1,5 +1,5 @@
 {
-    "language_version": "1.0.3",
+    "language_version": "1.0.4",
     "_______COMMENT": "GENERAL",
     "general_add": "ADD",
     "general_cancel": "Cancel",
@@ -50,6 +50,7 @@
     "page_settings_general_startwithwindows": "Start with windows",
     "page_settings_general_escforclose": "Press ESC for close",
     "page_settings_general_notifications": "Show notifications",
+    "page_settings_general_language": "Select your language",
 
     "page_settings_name_apperance": "Apperance",
 
