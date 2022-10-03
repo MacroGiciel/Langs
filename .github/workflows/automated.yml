@@ -1,0 +1,19 @@
+on: push
+name: Version Updater
+jobs:
+  render:
+    name: Compile
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: sudo apt update
+      - run: npm install
+      - run: npm run start
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - run: bash push.sh
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

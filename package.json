@@ -1,0 +1,32 @@
+{
+  "name": "macrogiciel-langs-versioning",
+  "version": "1.0.0",
+  "description": "auto update version of language",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacroGiciel/Langs.git"
+  },
+  "keywords": [
+    "Macrogiciel",
+    "Tai",
+    "Studio",
+    "bot",
+    "version",
+    "update"
+  ],
+  "author": "Tai Tetsuyuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MacroGiciel/Langs/issues"
+  },
+  "homepage": "https://github.com/MacroGiciel/Langs#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
