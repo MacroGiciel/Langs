@@ -14,6 +14,6 @@ jobs:
       - run: npm run start
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - run: bash push.sh
+      - run: bash ./script/push.sh
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
