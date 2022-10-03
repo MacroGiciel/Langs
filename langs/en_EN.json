@@ -1,5 +1,10 @@
 {
-    "language_version": "1.0.4",
+    "language_version": "1.0.5",
+    "_______COMMENT": "LANGS",
+    "en_EN": "English",
+    "fr_Fr": "French",
+
+
     "_______COMMENT": "GENERAL",
     "general_add": "ADD",
     "general_cancel": "Cancel",
