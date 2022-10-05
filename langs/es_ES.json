@@ -1,0 +1,70 @@
+{
+    "language_version": "1.0.0",
+    "_______COMMENT": "LANGS",
+    "en_EN": "Inglesa",
+    "fr_FR": "Francés",
+    "es_ES": "Español",
+
+
+    "_______COMMENT": "GENERAL",
+    "general_add": "AGREGAR",
+    "general_cancel": "Cancelar",
+
+
+
+    
+    "_______COMMENT": "LOGS",
+    "logs_press_any_key": "Presione cualquier tecla para ejecutar sus macros.",
+    "logs_press_esc_exit": "Presione ESC para salir y restaurar el control posterior.",
+
+
+
+    "_______COMMENT": "SIDEBAR",
+    "sidebar_home": "Hogar",
+    "sidebar_keyboards": "Teclados",
+    "sidebar_voice": "Voz",
+    "sidebar_addons": "Complementos",
+    "sidebar_help": "Ayuda",
+    "sidebar_settings": "Ajustes",
+
+
+
+    "_______COMMENT": "NAVBAR",
+    "navbar_tap_to_search": "Toca para buscar",
+
+
+
+    "_______COMMENT": "PAGE HOME",
+    "page_home_addons_enabled": "Complementos habilitados",
+    "page_home_addons_installed": "Complementos instalados",
+    "page_home_keyboard_ready": "Teclados listos",
+    "page_home_macros": "Macro(s)",
+    "page_home_profils": "Perfil(es)",
+
+    "page_home_log_event": "Registros de eventos",
+
+
+
+    "general_name": "Nombre",
+
+
+
+    "_______COMMENT": "PAGE SETTINGS",
+    "page_settings_name_general": "General",
+
+    "page_settings_general_windows": "Windows",
+    "page_settings_general_startwithwindows": "Empezar con windows",
+    "page_settings_general_escforclose": "Presione ESC para cerrar",
+    "page_settings_general_notifications": "Mostrar notificaciones",
+    "page_settings_general_language": "Elige tu idioma",
+
+    "page_settings_name_apperance": "Apariencia",
+
+    "page_settings_section_theme": "Tema",
+    "page_settings_apperance_theme_dark": "Oscuro",
+    "page_settings_apperance_theme_light": "Ligero",
+    "page_settings_apperance_theme_sync": "Sincronizar con el sistema",
+
+    "page_settings_section_others": "Otros",
+    "page_settings_apperance_others_windowtransparency": "Transparente"
+}

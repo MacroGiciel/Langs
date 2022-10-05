@@ -1,8 +1,9 @@
 {
-    "language_version": "1.0.6",
+    "language_version": "1.0.7",
     "_______COMMENT": "LANGS",
     "en_EN": "English",
     "fr_FR": "French",
+    "es_ES": "Spanish",
 
 
     "_______COMMENT": "GENERAL",
