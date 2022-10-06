@@ -1,0 +1,14 @@
+{
+  "en_EN": {},
+  "es_ES": {
+    "page_home_macros": "Macro(s)",
+    "page_settings_name_general": "General",
+    "page_settings_general_windows": "Windows"
+  },
+  "fr_FR": {
+    "page_home_macros": "Macro(s)",
+    "page_settings_general_windows": "Windows",
+    "page_settings_section_theme": "Thème",
+    "page_settings_apperance_others_windowtransparency": "Transparent"
+  }
+}
