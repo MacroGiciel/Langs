@@ -1,0 +1,13 @@
+{
+    "es_ES": [
+        "page_home_macros",
+        "page_settings_name_general",
+        "page_settings_general_windows"
+    ],
+    "fr_FR": [
+        "page_home_macros",
+        "page_settings_general_windows",
+        "page_settings_section_theme",
+        "page_settings_apperance_others_windowtransparency"
+    ]
+}

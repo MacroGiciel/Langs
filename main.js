@@ -2,6 +2,7 @@ require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
 const en_EN = require('./langs/en_EN.json');
+var ignore = require('./ignore.json');
 var log = {};
 
 var data = {};
@@ -23,17 +24,28 @@ function init(){
         log[lang] = {};
         Object.keys(en_EN).forEach((val) => {
             if(val != "_______COMMENT"){
-                if(current[val] == null || current[val] == ""){
-                    log[lang][val] = en_EN[val];
+                if(ignore[lang] == null){
+                    ignore[lang] = {};
                 }
-    
+                var currentIgnores = [];
+                var currentIgnore = Object.entries(ignore[lang]);
+                    currentIgnore.forEach((val) => {
+                        currentIgnores.push(val[1]);
+                    });
                 if(lang != 'en_EN'){
                     if(current[val] == en_EN[val]){
-                        log[lang][val] = en_EN[val];
+                        if(currentIgnores != null){
+                            if(currentIgnores.includes(val) == false){
+                                log[lang][val] = en_EN[val];
+                            }
+                        }
+                        else{
+                            log[lang][val] = en_EN[val];
+                        }
                     }
                 }
             }
-        })
+        });
 
         data[lang] = current['language_version'];
     });
