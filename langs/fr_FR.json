@@ -1,5 +1,5 @@
 {
-    "language_version": "1.0.8",
+    "language_version": "9",
     "_______COMMENT": "LANGS",
     "en_EN": "Anglais",
     "fr_FR": "Français",
@@ -17,6 +17,7 @@
     "_______COMMENT": "LOGS",
     "logs_press_any_key": "Appuyez sur n'importe quelle touche pour exécuter vos macros.",
     "logs_press_esc_exit": "Appuyez sur ESC pour quitter et rétablir le contrôle.",
+    "logs_loading": "Chargement",
 
 
 

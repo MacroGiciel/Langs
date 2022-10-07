@@ -1,5 +1,5 @@
 {
-    "language_version": "1.0.9",
+    "language_version": "10",
     "_______COMMENT": "LANGS",
     "en_EN": "English",
     "fr_FR": "French",
@@ -16,6 +16,7 @@
     "_______COMMENT": "LOGS",
     "logs_press_any_key": "Press any key to run your macros.",
     "logs_press_esc_exit": "Press ESC to exit and restore back control.",
+    "logs_loading": "Loading",
 
 
 

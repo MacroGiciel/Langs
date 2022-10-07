@@ -4,7 +4,8 @@
   "description": "auto update version of language",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "dump": "node dump.js"
   },
   "repository": {
     "type": "git",
