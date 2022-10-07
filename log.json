@@ -1,5 +1,7 @@
 {
   "en_EN": {},
-  "es_ES": {},
+  "es_ES": {
+    "logs_open_dir": "Open dir"
+  },
   "fr_FR": {}
 }
