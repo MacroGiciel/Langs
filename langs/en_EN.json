@@ -14,6 +14,14 @@
 
 
     
+    
+    "_______COMMENT": "NOTIFICATIONS",
+    "notif_new_update": "New update available.",
+    "notif_download_end_restart": "Update downloaded; will install in 5 seconds",
+
+
+
+    
     "_______COMMENT": "LOGS",
     "logs_press_any_key": "Press any key to run your macros.",
     "logs_press_esc_exit": "Press ESC to exit and restore back control.",
