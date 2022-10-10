@@ -9,6 +9,12 @@ npm install
 
 npm start
 
+# bail if nothing changed
+if [ "$(git status --porcelain)" = "" ]; then
+  echo "no new content found; goodbye!"
+  exit
+fi
+
 git config user.email macrogiciel@outlook.fr
 git config user.name MacrogicielBOT
 git add .
