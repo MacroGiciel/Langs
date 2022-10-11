@@ -10,6 +10,7 @@
     "general_add": "ADD",
     "general_cancel": "Cancel",
     "general_edit": "Edit",
+    "general_name": "Name",
 
 
 
@@ -58,7 +59,14 @@
 
 
 
-    "general_name": "Name",
+    "page_creator_error_existe_macro_key": "CAUTION A MACRO EXISTS ON THIS KEY OF THIS KEYBOARD",
+    "page_creator_option_name": "Name:",
+    "page_creator_option_keyboard": "Keyboard:",
+    "page_creator_option_select_keyboard": "Select Keyboard",
+    "page_creator_option_key": "Key:",
+    "page_creator_option_select_key": "Select Key",
+    "page_creator_option_function": "Function:",
+    "page_creator_option_select_function": "Select Function",
 
 
 

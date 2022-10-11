@@ -10,6 +10,7 @@
     "_______COMMENT": "GENERAL",
     "general_add": "AJOUTER",
     "general_cancel": "Annuler",
+    "general_name": "Nom",
 
 
 
@@ -49,7 +50,7 @@
 
 
 
-    "general_name": "Nom",
+    "page_creator_error_existe_macro_key": "ATTENTION UNE MACRO EXISTE SUR CETTE TOUCHE DE CE CLAVIER",
 
 
 
