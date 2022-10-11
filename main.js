@@ -43,6 +43,16 @@ function init(){
                             log[lang][val] = en_EN[val];
                         }
                     }
+                    if(current[val] == null){
+                        if(currentIgnores != null){
+                            if(currentIgnores.includes(val) == false){
+                                log[lang][val] = en_EN[val];
+                            }
+                        }
+                        else{
+                            log[lang][val] = en_EN[val];
+                        }
+                    }
                 }
             }
         });
