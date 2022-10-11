@@ -1,7 +1,31 @@
 {
   "en_EN": {},
   "es_ES": {
-    "logs_open_dir": "Open dir"
+    "general_edit": "Edit",
+    "notif_new_update": "New update available.",
+    "notif_download_end_restart": "Update downloaded; will install in 5 seconds",
+    "logs_open_dir": "Open dir",
+    "sidebar_creator": "Creator",
+    "page_creator_error_existe_macro_key": "CAUTION A MACRO EXISTS ON THIS KEY OF THIS KEYBOARD",
+    "page_creator_option_name": "Name:",
+    "page_creator_option_keyboard": "Keyboard:",
+    "page_creator_option_select_keyboard": "Select Keyboard",
+    "page_creator_option_key": "Key:",
+    "page_creator_option_select_key": "Select Key",
+    "page_creator_option_function": "Function:",
+    "page_creator_option_select_function": "Select Function"
   },
-  "fr_FR": {}
+  "fr_FR": {
+    "general_edit": "Edit",
+    "notif_new_update": "New update available.",
+    "notif_download_end_restart": "Update downloaded; will install in 5 seconds",
+    "sidebar_creator": "Creator",
+    "page_creator_option_name": "Name:",
+    "page_creator_option_keyboard": "Keyboard:",
+    "page_creator_option_select_keyboard": "Select Keyboard",
+    "page_creator_option_key": "Key:",
+    "page_creator_option_select_key": "Select Key",
+    "page_creator_option_function": "Function:",
+    "page_creator_option_select_function": "Select Function"
+  }
 }
