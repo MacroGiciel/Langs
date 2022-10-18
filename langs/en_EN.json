@@ -56,6 +56,13 @@
     "page_home_profils": "Profile(s)",
 
     "page_home_log_event": "Logs events",
+    "page_home_system_os": "OS",
+    "page_home_system_version": "Version",
+    "page_home_system_cpu": "CPU(s)",
+    "page_home_system_gpu": "GPU(s)",
+    "page_home_system_memory": "Memory",
+    "page_home_system_user": "User",
+    "page_home_system_storage": "Storage",
 
 
 
