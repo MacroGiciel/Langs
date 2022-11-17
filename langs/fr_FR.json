@@ -1,5 +1,5 @@
 {
-    "language_version": "9",
+    "language_version": "10",
     "_______COMMENT": "LANGS",
     "en_EN": "Anglais",
     "fr_FR": "Français",
@@ -45,6 +45,8 @@
     "page_home_keyboard_ready": "Claviers prêts",
     "page_home_macros": "Macro(s)",
     "page_home_profils": "Profil(s)",
+
+    "page_home_donate": "Le studio est tenu par une seule personne et ce logiciel est gratuit ! Vous voulez qu’il le reste ? Vous pouvez aider le développeur ici :",
 
     "page_home_log_event": "Journal d'événements",
 

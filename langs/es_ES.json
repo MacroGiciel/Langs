@@ -1,5 +1,5 @@
 {
-    "language_version": "3",
+    "language_version": "4",
     "_______COMMENT": "LANGS",
     "en_EN": "Inglesa",
     "fr_FR": "Francés",
@@ -43,6 +43,8 @@
     "page_home_keyboard_ready": "Teclados listos",
     "page_home_macros": "Macro(s)",
     "page_home_profils": "Perfil(es)",
+
+    "page_home_donate": "¡El estudio está dirigido por una persona y este software es gratuito! ¿Quieres que se quede? Puedes ayudar al desarrollador aquí:",
 
     "page_home_log_event": "Registros de eventos",
 

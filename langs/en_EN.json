@@ -1,5 +1,5 @@
 {
-    "language_version": "10",
+    "language_version": "11",
     "_______COMMENT": "LANGS",
     "en_EN": "English",
     "fr_FR": "French",
@@ -54,6 +54,8 @@
     "page_home_keyboard_ready": "Keyboards Ready",
     "page_home_macros": "Macro(s)",
     "page_home_profils": "Profile(s)",
+
+    "page_home_donate": "The studio is run by one person and this software is free! Want it to stay? You can help the developer here:",
 
     "page_home_log_event": "Logs events",
     "page_home_system_os": "OS",
