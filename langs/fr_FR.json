@@ -1,5 +1,5 @@
 {
-    "language_version": "11",
+    "language_version": "12",
     "_______COMMENT": "LANGS",
     "en_EN": "Anglais",
     "fr_FR": "Français",
@@ -26,6 +26,7 @@
 
     "_______COMMENT": "SIDEBAR",
     "sidebar_home": "Accueil",
+    "sidebar_creator": "Createur",
     "sidebar_keyboards": "Claviers",
     "sidebar_voice": "Voix",
     "sidebar_addons": "Modules",
