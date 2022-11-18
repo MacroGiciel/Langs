@@ -1,5 +1,5 @@
 {
-    "language_version": "10",
+    "language_version": "11",
     "_______COMMENT": "LANGS",
     "en_EN": "Anglais",
     "fr_FR": "Français",
@@ -57,7 +57,7 @@
 
 
     "_______COMMENT": "PAGE HELP",
-    "page_help_addons": "Comment créer un addons ?",
+    "page_help_addons_create": "Comment créer un addons ?",
     "page_help_destination_developper": "Pour les développeurs",
     "page_help_destination_everyone": "Pour tout le monde",
     "page_help_forum": "Forum",

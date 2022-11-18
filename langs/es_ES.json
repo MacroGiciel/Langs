@@ -1,5 +1,5 @@
 {
-    "language_version": "4",
+    "language_version": "5",
     "_______COMMENT": "LANGS",
     "en_EN": "Inglesa",
     "fr_FR": "Francés",
@@ -55,7 +55,7 @@
 
 
     "_______COMMENT": "PAGE HELP",
-    "page_help_addons": "¿Cómo crear un complemento?",
+    "page_help_addons_create": "¿Cómo crear un complemento?",
     "page_help_destination_developper": "Para desarrolladores",
     "page_help_destination_everyone": "Para todos",
     "page_help_forum": "Foro",
