@@ -20,7 +20,8 @@
     "page_creator_option_key": "Key:",
     "page_creator_option_select_key": "Select Key",
     "page_creator_option_function": "Function:",
-    "page_creator_option_select_function": "Select Function"
+    "page_creator_option_select_function": "Select Function",
+    "page_help_addons_install": "How to install an addons ?"
   },
   "fr_FR": {
     "general_edit": "Edit",
@@ -40,6 +41,7 @@
     "page_creator_option_key": "Key:",
     "page_creator_option_select_key": "Select Key",
     "page_creator_option_function": "Function:",
-    "page_creator_option_select_function": "Select Function"
+    "page_creator_option_select_function": "Select Function",
+    "page_help_addons_install": "How to install an addons ?"
   }
 }
