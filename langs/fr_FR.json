@@ -1,5 +1,5 @@
 {
-    "language_version": "12",
+    "language_version": "13",
     "_______COMMENT": "LANGS",
     "en_EN": "Anglais",
     "fr_FR": "Français",
@@ -11,6 +11,7 @@
     "general_add": "AJOUTER",
     "general_cancel": "Annuler",
     "general_name": "Nom",
+    "general_edit": "Éditer",
 
 
 
