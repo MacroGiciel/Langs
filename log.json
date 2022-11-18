@@ -24,8 +24,6 @@
     "page_help_addons_install": "How to install an addons ?"
   },
   "fr_FR": {
-    "language_version": "12",
-    "general_edit": "Edit",
     "notif_new_update": "New update available.",
     "notif_download_end_restart": "Update downloaded; will install in 5 seconds",
     "page_home_system_os": "OS",
